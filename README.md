@@ -60,7 +60,7 @@ By default, Bootoast supports all [Bootstrap 3 alert types][2]:
 
 ### Supported Positions
 
-Supported | Sinonymus
+Supported | Synonyms
 :---: | :---:
 `top-center` | `top`
 `top-left` | `left-top`
