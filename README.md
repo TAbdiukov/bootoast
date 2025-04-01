@@ -18,6 +18,7 @@ In particular, alternative implementation of the "Close" button design is used
 * Fix: Bootoast: type "success" is not valid
 * Allow longer notification text by adjusting font size
 * spelling fixes: synonym-related and Bootstrap-related
+* Security updates
 
 # Bootoast 🔥
 
