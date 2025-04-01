@@ -7,7 +7,11 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/2ebe930bdb2803dbfdbb/maintainability)](https://codeclimate.com/github/odahcam/bootoast/maintainability)
 
 
-# Bootoast 🔥
+# Bootoast 🔥-Fork
+
+This is an fork with changes to make fork better compatible with Bootstrap 5
+
+In particular, alternative implementation of the "Close" button design is used
 
 > A [*Boot*][0]strap T[*oast*][1]er library.
 > 
