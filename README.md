@@ -7,7 +7,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/2ebe930bdb2803dbfdbb/maintainability)](https://codeclimate.com/github/odahcam/bootoast/maintainability)
 
 
-# Bootoast 🔥-Fork
+# Bootoast 🔥 fork for Bootstrap 5
 
 This is an fork with changes to make fork better compatible with Bootstrap 5
 
