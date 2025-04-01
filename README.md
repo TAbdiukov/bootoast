@@ -13,6 +13,14 @@ This is an fork with changes to make fork better compatible with Bootstrap 5
 
 In particular, alternative implementation of the "Close" button design is used
 
+## Changes
+* Experimental changes
+* Fix: Bootoast: type "success" is not valid
+* Allow longer notification text by adjusting font size
+* spelling fixes: synonym-related and Bootstrap-related
+
+# Bootoast
+
 > A [*Boot*][0]strap T[*oast*][1]er library.
 > 
 > Make your toast notifications with **Bootstrap 3 or 4** `alert`s.
