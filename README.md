@@ -23,7 +23,7 @@ This is an fork with changes to make the code more compatible with Bootstrap 5
 
 ## Result
 
-![Illustration](/.idea/10.png)
+![Illustration](/.idea/10.PNG)
 
 -----------------------------
 
