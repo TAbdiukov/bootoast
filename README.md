@@ -9,18 +9,23 @@
 
 # Bootoast 🔥 fork for Bootstrap 5
 
-This is an fork with changes to make fork better compatible with Bootstrap 5
-
-In particular, alternative implementation of the "Close" button design is used
+This is an fork with changes to make the code more compatible with Bootstrap 5
 
 ## Changes
 
-* Experimental changes
+* Bootstrap 5: Alternative implementation of the "Close" button design is used
+* Make some elements more 'Bootstrappy'
 * Fix: Bootoast: type "success" is not valid
 * Fix paths to Bootoast CSS and JS in demo HTML file
 * Allow longer notification text by adjusting font size
-* spelling fixes: synonym-related and Bootstrap-related
+* Spelling fixes: synonym-related and Bootstrap-related
 * Security updates
+
+## Result
+
+![Illustration](/.idea/10.png)
+
+-----------------------------
 
 # Bootoast 🔥
 
