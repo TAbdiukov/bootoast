@@ -58,7 +58,7 @@ By default, Bootoast supports all [Bootstrap 3 alert types][2]:
 * warning
 * danger
  
- [See more about Bootsrap `alert`s][2].
+ [See more about Bootstrap `alert`s][2].
  
 
 
