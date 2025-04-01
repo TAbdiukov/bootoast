@@ -19,7 +19,7 @@ In particular, alternative implementation of the "Close" button design is used
 * Allow longer notification text by adjusting font size
 * spelling fixes: synonym-related and Bootstrap-related
 
-# Bootoast
+# Bootoast 🔥
 
 > A [*Boot*][0]strap T[*oast*][1]er library.
 > 
