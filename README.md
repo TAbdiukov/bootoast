@@ -9,6 +9,8 @@
 
 # Bootoast 🔥 fork for Bootstrap 5
 
+![Illustration](/.idea/10.PNG)
+
 This is an fork with changes to make the code more compatible with Bootstrap 5
 
 ## Changes
@@ -20,10 +22,6 @@ This is an fork with changes to make the code more compatible with Bootstrap 5
 * Allow longer notification text by adjusting font size
 * Spelling fixes: synonym-related and Bootstrap-related
 * Security updates
-
-## Result
-
-![Illustration](/.idea/10.PNG)
 
 -----------------------------
 
