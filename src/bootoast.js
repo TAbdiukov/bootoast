@@ -29,9 +29,9 @@ const types = [
 ];
 
 /**
- * Type Sinonymus
+ * Type Synonyms
  */
-const typeSinonym = {
+const typeSynonym = {
 	warn: 'warning',
 	error: 'danger',
 };
@@ -62,14 +62,14 @@ function typeFor(type) {
 		return 'default';
 	}
 
-	var sinonym = typeSinonym[type];
+	var synonym = typeSynonym[type];
 
-	if (!sinonym) {
+	if (!synonym) {
 		console.warn('Bootoast: type "' + type + '" is not valid.');
-		sinonym = type;
+		synonym = type;
 	}
 
-	return sinonym;
+	return synonym;
 }
 
 /** Creates an HTML string template for the Bootstrap alert. */
@@ -184,11 +184,11 @@ $.extend(Bootoast.prototype, {
 		'bottom-right'
 	],
 	/**
-	 * Position Sinonymus
+	 * Position Synonyms
 	 *
-	 * @var {Object} positionSinonym
+	 * @var {Object} positionSynonym
 	 */
-	positionSinonym: {
+	positionSynonym: {
 		bottom: 'bottom-center',
 		leftBottom: 'bottom-left',
 		rightBottom: 'bottom-right',
@@ -316,7 +316,7 @@ $.extend(Bootoast.prototype, {
 		var positionCamel = $.camelCase(position);
 
 		// tries to find some position-name alias.
-		return this.positionSinonym[positionCamel] || 'bottom-center';
+		return this.positionSynonym[positionCamel] || 'bottom-center';
 	},
 
 	/**
