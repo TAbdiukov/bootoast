@@ -5,7 +5,8 @@
 
 .bootoast {
     opacity: 0;
-    filter: alpha(opacity=0)
+    filter: alpha(opacity=0);
+    display: flex;
 }
 
 .bootoast>.glyphicon {

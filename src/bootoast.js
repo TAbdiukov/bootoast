@@ -209,7 +209,7 @@ $.extend(Bootoast.prototype, {
 		if (this.settings.dismissible === true) {
 			this.$el
 				.addClass('alert-dismissible')
-				.prepend('<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>')
+				.prepend('<button type="button" class="close btn btn-sm py-0 active" data-dismiss="alert" aria-label="Close" aria-pressed="true" style="margin-right: 0.5em;"><span aria-hidden="true">&times;</span></button>')
 				.on('click', 'button.close', function (e) {
 					e.preventDefault();
 					plugin.hide();
