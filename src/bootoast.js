@@ -54,7 +54,7 @@ const icons = {
 function typeFor(type) {
 
 	// se esta type é padrão
-	if (types[type]) {
+	if (types.indexOf(type) !== -1) {
 		return type;
 	}
 
